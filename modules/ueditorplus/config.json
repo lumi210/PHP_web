@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "vue-ueditor-wrap": "3.x"
+    },
+    "devDependencies": {}
+}

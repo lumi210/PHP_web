@@ -1,0 +1,18 @@
+
+    app.component('vue-ueditor-wrap', VueUeditorWrap)
+#main.ts import code start#
+
+#main.ts import code end#
+
+#main.ts start code start#
+
+    console.log('main.ts start 1')
+#main.ts start code end#
+
+#App.vue import code start#
+console.log('App.vue import 1')
+#App.vue import code end#
+
+#App.vue onMounted code start#
+    console.log('App.vue onMounted1')
+#App.vue onMounted code end#
